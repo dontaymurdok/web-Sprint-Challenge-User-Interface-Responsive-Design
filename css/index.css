@@ -111,7 +111,15 @@ header {
     height: 100vh;
     text-align: center;
     background-color: rgb(0, 4, 17);
+    color:white;
 }
+.imagegrid {
+    display: flex;
+    width: 90%;
+    margin:0 auto;
+}
+
+
 
 /* about us section */
 .about {
